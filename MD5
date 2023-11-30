@@ -1,0 +1,15 @@
+f657142b2d259ae8a77989c6d03c41c3 *DESCRIPTION
+ddc2181065bc9564bc0b2fa7adee008c *NAMESPACE
+52ab1f845cfd5b665c76d4c47fe069c2 *NEWS.md
+eb96fb8c24f1f841f6a5e0d2c6ceacdb *R/kcmeans.R
+81af4df01131769617a338d7272e70bf *R/ols.R
+81f68a5c11ed45ddec8af5fc1ce8b2c9 *README.md
+3fa932fd1391e2bd71f01c895cb7ec38 *build/vignette.rds
+4a0356457d83b7a1213371a1d883462b *inst/doc/kcmeans.Rmd
+1f6823fb7ef1b940322fbc7aeede86a0 *inst/doc/kcmeans.html
+1915f24ed6445bf274675a1d11afce65 *man/kcmeans.Rd
+4d77fd1acb22f08f4b50756d6028d961 *man/predict.kcmeans.Rd
+9e159ace5fc2e37c6ab6bd2f81a16593 *tests/testthat.R
+50ffd8bb7b619103cd639f27ff7a056d *tests/testthat/test-kcmeans.R
+a127e214bcf0fe7c77debb68b0260706 *tests/testthat/test-ols.R
+4a0356457d83b7a1213371a1d883462b *vignettes/kcmeans.Rmd
